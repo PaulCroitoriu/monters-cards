@@ -2,9 +2,10 @@
   "name": "monster-cards",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/PaulCroitoriu/monters-cards",
+  "homepage": "https://paulcroitoriu.github.io/monters-cards/",
   "dependencies": {
     "gh-pages": "^2.0.1",
+    "lodash.template": "^4.5.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
