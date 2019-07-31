@@ -2,7 +2,7 @@
   "name": "monster-cards",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://paulcroitoriu.github.io/monters-cards/",
+  "homepage": "https://paulcroitoriu.github.io/monsters-cards/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "lodash.template": "^4.5.0",
