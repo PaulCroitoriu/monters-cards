@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/monters-cards/static/css/main.512dd0ec.chunk.css",
-    "main.js": "/monters-cards/static/js/main.50f71fdf.chunk.js",
-    "main.js.map": "/monters-cards/static/js/main.50f71fdf.chunk.js.map",
-    "runtime~main.js": "/monters-cards/static/js/runtime~main.ed62ab01.js",
-    "runtime~main.js.map": "/monters-cards/static/js/runtime~main.ed62ab01.js.map",
-    "static/js/2.65aa1cca.chunk.js": "/monters-cards/static/js/2.65aa1cca.chunk.js",
-    "static/js/2.65aa1cca.chunk.js.map": "/monters-cards/static/js/2.65aa1cca.chunk.js.map",
-    "index.html": "/monters-cards/index.html",
-    "precache-manifest.c8908f5330902c7eb6871fd713e349a1.js": "/monters-cards/precache-manifest.c8908f5330902c7eb6871fd713e349a1.js",
-    "service-worker.js": "/monters-cards/service-worker.js",
-    "static/css/main.512dd0ec.chunk.css.map": "/monters-cards/static/css/main.512dd0ec.chunk.css.map"
+    "main.css": "/monsters-cards/static/css/main.512dd0ec.chunk.css",
+    "main.js": "/monsters-cards/static/js/main.2b521200.chunk.js",
+    "main.js.map": "/monsters-cards/static/js/main.2b521200.chunk.js.map",
+    "runtime~main.js": "/monsters-cards/static/js/runtime~main.928f8d42.js",
+    "runtime~main.js.map": "/monsters-cards/static/js/runtime~main.928f8d42.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/monsters-cards/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/monsters-cards/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/monsters-cards/index.html",
+    "precache-manifest.7cbc0d2f435830248e8c7501d30a57b7.js": "/monsters-cards/precache-manifest.7cbc0d2f435830248e8c7501d30a57b7.js",
+    "service-worker.js": "/monsters-cards/service-worker.js",
+    "static/css/main.512dd0ec.chunk.css.map": "/monsters-cards/static/css/main.512dd0ec.chunk.css.map"
   }
 }
